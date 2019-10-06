@@ -17,5 +17,5 @@ Here, pip is a package-management system used to install and manage software pac
 Requests is an Apache2 Licensed HTTP library, written in Python. Requests will allow you to send HTTP/1.1 requests using Python. You can install requests library using following code in your terminal in Linux.
 
     pip3 install requests
-After finishing installation process above, you can run the tasks
+<b>After finishing installation process above, you can run the tasks</b>
 
